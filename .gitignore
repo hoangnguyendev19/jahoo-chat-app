@@ -1,0 +1,4 @@
+# .env files
+be-app/.env
+fe-mobile/.env
+fe-web/.env
